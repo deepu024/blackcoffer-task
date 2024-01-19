@@ -1,0 +1,6 @@
+lxml==5.1.0
+newspaper3k==0.2.8
+nltk==3.8.1
+openpyxl==3.1.2
+pandas==2.1.4
+textblob==0.17.1
